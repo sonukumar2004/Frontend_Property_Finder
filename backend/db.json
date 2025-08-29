@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "2BHK Apartment",
+      "location": "Bangalore",
+      "price": 45000,
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "description": "Spacious 2BHK near IT hub"
+    },
+    {
+      "id": 2,
+      "title": "Luxury Villa",
+      "location": "Mumbai",
+      "price": 150000,
+      "lat": 19.076,
+      "lng": 72.8777,
+      "description": "Beautiful villa with sea view"
+    }
+  ]
+}
